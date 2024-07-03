@@ -50,17 +50,11 @@ The objective of this project is to analyze road accident data to identify patte
    - Injury severity: Breakdown of accidents resulting in fatalities, serious injuries, and minor injuries.
    - Economic impact: Estimation of the economic cost of road accidents, including medical expenses, vehicle damage, and lost productivity.
 
-## How to Use
 
-1. Clone this repository to your local machine.
-2. Open the Excel or Power BI files to explore the data and visualizations.
-3. Review the insights and use them to inform road safety measures.
 
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your improvements or suggestions.
 
-## License
 
-This project is licensed under the MIT License.
 
